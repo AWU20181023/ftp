@@ -159,7 +159,7 @@ public class FtpUtils {
             return false;
         }
     }
-    
+
     public static boolean checkSubfolder(String path, String subfolderName) {
         try {
             //切换到FTP根目录
